@@ -1,2 +1,8 @@
 # jogo-de-corrida
-É um jogo tecnológico e muito bom de jogar. Apenas com o mouse.
+
+
+Como jogar: apenas dá um clique no mouse, em cima do play.
+
+
+
+Refêrencia: Com base no projeto do Alura do trimestre anterior, eu fiz meu projeto, com ajudas de vídeos e fotos.
